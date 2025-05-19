@@ -65,9 +65,6 @@ This is where technology meets creativity, and fashion meets the future.
 | **AI Layer**  | Hugging Face   |
 | **Payments**  | PayFast                        |
 
----
-
-````
 
 ---
 
@@ -75,7 +72,7 @@ This is where technology meets creativity, and fashion meets the future.
 
 ### 1. Clone the Repository
 
-```bash
+````
 git clone https://github.com/EbadTahirKhan/FabrIQ.git
 cd FabrIQ
 ````
