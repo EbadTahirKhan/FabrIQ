@@ -199,8 +199,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 **fabrIQ** is a passionate project built by dedicated developers for the future of digital commerce.
 
-* 📧 Email: [ebadtahirkhan@example.com](mailto:ebadtahirkhan@gmail.com)
-* 🌐 Portfolio: [ebadfolio.com](https://ebadfolio.com)
+* 📧 Email: [ebadtahirkhan@gmail.com](mailto:ebadtahirkhan@gmail.com)
+* 🌐 Portfolio: [ebadfolio.com](https://ebadfolio.vercel.app)
 * 🐙 GitHub: [@EbadTahirKhan](https://github.com/EbadTahirKhan)
 * 💼 LinkedIn: [Ebad Tahir Khan](www.linkedin.com/in/ebad-tahir-khan-29603526b)
 
